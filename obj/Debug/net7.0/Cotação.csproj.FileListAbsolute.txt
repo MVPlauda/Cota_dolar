@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\Cotação\bin\Debug\net7.0\Cotação.exe
+C:\Users\plaud\Desktop\Cotação\bin\Debug\net7.0\Cotação.deps.json
+C:\Users\plaud\Desktop\Cotação\bin\Debug\net7.0\Cotação.runtimeconfig.json
+C:\Users\plaud\Desktop\Cotação\bin\Debug\net7.0\Cotação.dll
+C:\Users\plaud\Desktop\Cotação\bin\Debug\net7.0\Cotação.pdb
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\Cotação.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\Cotação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\Cotação.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\Cotação.AssemblyInfo.cs
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\Cotação.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\Cotação.dll
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\refint\Cotação.dll
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\Cotação.pdb
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\Cotação.genruntimeconfig.cache
+C:\Users\plaud\Desktop\Cotação\obj\Debug\net7.0\ref\Cotação.dll
